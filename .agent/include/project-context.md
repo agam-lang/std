@@ -1,0 +1,31 @@
+# Project Context
+
+## What This Repository Is
+
+- Repository: `agam-lang/std`
+- Purpose: Provide the foundational standard library for the Agam language, covering collections, I/O, math, concurrency, networking, and tensor operations.
+- Technology: Agam source modules + Rust runtime backing
+
+## Organization Context
+
+- This is part of the `agam-lang` ecosystem.
+- The core Agam compiler lives at `agam-lang/agam`.
+- The standard library lives at `agam-lang/std`.
+- The scientific platform lives at `agam-lang/agamlab`.
+
+## Key Areas
+
+- Collections
+- I/O
+- Math/Numerical
+- Concurrency
+- Networking
+- String Processing
+- Tensor Operations
+
+## Related Repositories
+
+- Core compiler: https://github.com/agam-lang/agam
+- Standard library: https://github.com/agam-lang/std
+- Package registry: https://github.com/agam-lang/registry-index
+- Documentation: https://github.com/agam-lang/agam-lang.github.io
